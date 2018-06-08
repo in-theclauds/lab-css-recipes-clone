@@ -5,7 +5,7 @@ h1, body, html, main {
 /*Import the font and set the default size*/
 html {
   font-family: 'Open Sans', sans-serif;
-  font-size: 18px
+  font-size: 18px;
 }
 
 body {
@@ -30,12 +30,20 @@ body {
     transform: translate(-50%, -50%);
 }
 
+.recipe-info{
+  /* width: 75vh; */
+  height: 10vh;
+  /* margin-left: 25vh; */
+}
+
 body {
-  font-family: ;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .pie-img{
-  width: 100%;
+  width: 95vh;
+  height: 75vh;
+  margin-left: 25vh;
 }
 
 ul {

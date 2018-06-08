@@ -1,5 +1,5 @@
 h1, body, html, main {
-  margin: 0;
+  margin: 0 auto;
 }
 /*Import the font and set the default size*/
 html {
@@ -29,11 +29,19 @@ body {
 }
 
 body {
-  font-family: ;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.recipe-info{
+  /* width: 75vh; */
+  height: 10vh;
+  /* margin-left: 25vh; */
 }
 
 .pie-img{
-  width: 100%;
+  width: 95vh;
+  height: 75vh;
+  margin-left: 25vh;
 }
 
 ul {
